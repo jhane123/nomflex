@@ -1,0 +1,8 @@
+:root {
+    --awesome: red;
+
+}
+
+body {
+    background-color: var(--awesome);
+}
